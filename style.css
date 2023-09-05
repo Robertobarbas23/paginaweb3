@@ -1,0 +1,79 @@
+header{
+    background-image: url(Banner\ 2\ KicksPN.png);
+    background-position:center;
+    width: 500px;
+        }
+    .logo{
+        width: 100px;
+        background-position: left;
+       }
+    *{
+      margin: 0 auto;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    h1{
+      font-family: "Mystery Quest", cursive;
+    font-size: 150%;
+
+    }
+  
+  
+    .navbar .container-fluid{
+      background-color:pink;
+      
+      ;
+    }
+    body{background-color:rgb(206, 183, 183);
+      @font-face{
+        font-family: "Mystery Quest";
+    src: url("mystery-quest.woff2");
+      }
+      }
+    
+    p{
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: larger;
+      font-family: "Mystery Quest", cursive;
+    font-size: 150%;
+    }
+    
+    
+    strong{
+      color: red;
+      font-size: larger;
+    }
+    .nav-link:hover{
+background-color: brown;
+color: white;
+    }
+    #hipnotic{
+      width: 50px;
+      height: 50px;
+    }
+    footer{
+      background-color: blanchedalmond;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    .card img{
+      border-radius:20%;
+
+    }
+    .card{
+      background-color:rgb(231, 231, 197);
+    }
+    #carouselExample{
+      width: 600px;
+      height: 600px;
+    }
+    
+  
+   
+    
+    
+    
+    
+
+  
+  
